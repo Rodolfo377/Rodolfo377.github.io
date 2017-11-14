@@ -9,7 +9,8 @@ My first project using C++, this was a bit scary but really enjoyable. With the 
 
 
 [Download the Game](https://www.dropbox.com/s/hmmsv8d5aduwc8t/BeeHero_Release.rar?dl=0)
-https://www.youtube.com/watch?v=4TrOCv5Kukk
+[Github](https://github.com/Rodolfo377/Beehero)
+
 
 
 Extra: I took the freedom to produce the assets in Photoshop, pixel art is really fun!
