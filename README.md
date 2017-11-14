@@ -1,5 +1,7 @@
 # Ruddy Game Dev
-
+- (e-mail) rodolfo.fbf@gmail.com
+- (Twitter) @RodolfoBianchi1
+- (Mastodon)  @Ruddy 
 ## Projects
 
 2016
