@@ -1,10 +1,4 @@
 # Ruddy Game Dev
-- (e-mail) rodolfo.fbf@gmail.com
-- [Twitter](https://twitter.com/RodolfoBianchi1)
-- [Github](https://github.com/Rodolfo377)
-
-
-
 
 ## Projects
 
@@ -25,3 +19,7 @@ Extra: I took the freedom to produce the assets in Photoshop, pixel art is reall
 
 
 
+##### Contact 
+- (e-mail) rodolfo.fbf@gmail.com
+- [Twitter](https://twitter.com/RodolfoBianchi1)
+- [Github](https://github.com/Rodolfo377)
