@@ -13,7 +13,7 @@ My first project using C++, this was a bit scary but really enjoyable. With the 
 Extra: I took the freedom to produce the assets in Photoshop, pixel art is really fun!
 
 ![Bee](https://Rodolfo377.github.io/Images/Bee_1.png) 
-![Level](https://Rodolfo377.github.io/Images/Spring_Field_1.png)
+
 
 ```markdown
 Syntax highlighted code block
