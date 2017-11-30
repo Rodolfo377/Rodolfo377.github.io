@@ -66,7 +66,7 @@ My first project using **C++**, this was a bit scary but really enjoyable. With 
 Extra: I took the freedom to produce the assets in Photoshop, pixel art is really fun!
 
 ![Bee](https://Rodolfo377.github.io/Images/Bee_1.png) 
-
+![Field](https://Rodolfo377.github.io/Images/Spring_Field_1.png) 
 
 * [Download the Game](https://www.dropbox.com/s/hmmsv8d5aduwc8t/BeeHero_Release.rar?dl=0)
 * [Github](https://github.com/Rodolfo377/Beehero)
