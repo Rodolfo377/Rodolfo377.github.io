@@ -13,7 +13,7 @@ graphics API from Microsoft, DirectX12, which was likely the most difficult part
 ![TDS](https://Rodolfo377.github.io/Images/ultratds.png)
 
 * _Language: C++_
-* _Tools: DirectX12_
+* _Tools: DirectX12, ImGUI_
 * _Time of Development: 8 weeks_
 
 ## 2016
