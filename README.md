@@ -12,9 +12,9 @@ graphics API from Microsoft, DirectX12, which was likely the most difficult part
 
 ![TDS](https://Rodolfo377.github.io/Images/ultratds.png)
 
-_Language: C++ _
-_Tools: DirectX12_
-_Time of Development: 8 weeks_
+* _Language: C++_
+* _Tools: DirectX12_
+* _Time of Development: 8 weeks_
 
 ## 2016
 ------------------------------------------------------------------------------------------
@@ -23,9 +23,9 @@ _Time of Development: 8 weeks_
 ### Candy Chaos
 The first inter-disciplinary work of my education happened in Block D. We successfully passed two stages of development, where half of the projects would be shut down and the remaining members would be assigned to successful ones. From a group of 3, we become 12, and it was not always smooth sailing. On the other hand, it was an amazing experience to work with such talented people towards a common goal. The assignment was to take inspiration from a early 80s game, and we chose _Ghosts N Goblins_. Of course, the artists changed the aesthetics and made it 3D, but the intense fast-paced run and gun is still there for those who dare try it. My main contributions were in the AI of one of the 3 enemy types: the seemingly harmless but savage **jawbreaker**. I will say no more, have a go at it and decide for yourself!
 
-_Language: Unreal Blueprints_
-_Tools: Unreal Engine_
-_Time of Development: 8 weeks_
+* _Language: Unreal Blueprints_
+* _Tools: Unreal Engine_
+* _Time of Development: 8 weeks_
 
 ![CandyChaos](https://Rodolfo377.github.io/Images/sonic_collision.jpg)
 -[Download The Game](https://drive.google.com/open?id=0B3e0watf0f_5MkFqcDdtTWdIVXc)
@@ -37,9 +37,9 @@ For Block C we got quite a task: Implement our own version of _Quake_ on the ras
 
 -[Final Presentation](https://drive.google.com/open?id=1chgHXvUsE2nqvzrMd62hmD30fNPk1246)\
 
-_Language: C++_
-_Tools: tinyObjLoader, VisualGDB_
-_Time of Development: 8 weeks_
+* _Language: C++_
+* _Tools: tinyObjLoader, VisualGDB_
+* _Time of Development: 8 weeks_
 
 ### Tron
 Assignment for Block B, when we first had to deal with matrices and graphics. From an incomplete framework, we needed to make a 2.5D Game , in other words, a 2D gameplay with 3D visuals. Making use of OpenGL and GLM, I pulled off a basic AI to race against the player, which isn't too clever but gets the job done. You can also play with a friend, just tell them it is similar to _Snake_ and they will get it.
@@ -47,20 +47,20 @@ Assignment for Block B, when we first had to deal with matrices and graphics. Fr
 ![TronMenu](https://Rodolfo377.github.io/Images/Tron_menu.PNG)
 ![TronGameplay](https://Rodolfo377.github.io/Images/tron_gameplay.png)
 
--[Download the Game](https://drive.google.com/open?id=0B3e0watf0f_5eDliY21aa1lXam8)
--[Github](https://github.com/Rodolfo377/Tron/tree/master/Aquarius)
+* [Download the Game](https://drive.google.com/open?id=0B3e0watf0f_5eDliY21aa1lXam8)
+* [Github](https://github.com/Rodolfo377/Tron/tree/master/Aquarius)
 
-_Language: C++_
-_Tools: OpenGL, GLM_
-_Time of Development: 8 weeks_
+* _Language: C++_
+* _Tools: OpenGL, GLM_
+* _Time of Development: 8 weeks_
 
 ### BeeHero
 Intake assignment for education in NHTV, made in **Visual Studio 2015**. 
 My first project using **C++**, this was a bit scary but really enjoyable. With the aid of SFML I managed to create an experience where you are the last bee of the hive, and it is up to you to ensure the colony's survival through the year. Play through Spring until Fall and stock up on honey for the winter! Simple but fun arcade gameplay will make sure you are smashing that space bar... Spoiler Alert! Oh, too late. 
 
 
-- [Download the Game](https://www.dropbox.com/s/hmmsv8d5aduwc8t/BeeHero_Release.rar?dl=0)
-- [Github](https://github.com/Rodolfo377/Beehero)
+* [Download the Game](https://www.dropbox.com/s/hmmsv8d5aduwc8t/BeeHero_Release.rar?dl=0)
+* [Github](https://github.com/Rodolfo377/Beehero)
 
 
 
