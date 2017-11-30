@@ -27,7 +27,7 @@ The first inter-disciplinary work of my education happened in Block D. We succes
 * _Tools: Unreal Engine_
 * _Time of Development: 8 weeks_
 
-![CandyChaos](https://Rodolfo377.github.io/Images/sonic_collision.jpg)
+![CandyChaos](https://Rodolfo377.github.io/Images/candychaos_pic.png)
 -[Download The Game](https://drive.google.com/open?id=0B3e0watf0f_5MkFqcDdtTWdIVXc)
 
 ### Sonic goes Raspberry Pi
