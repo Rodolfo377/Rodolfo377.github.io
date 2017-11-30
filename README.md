@@ -35,7 +35,7 @@ For Block C we got quite a task: Implement our own version of _Quake_ on the ras
 
 ![Sonic](https://Rodolfo377.github.io/Images/sonic_collision.jpg)
 
--[Final Presentation](https://drive.google.com/open?id=1chgHXvUsE2nqvzrMd62hmD30fNPk1246)\
+-[Final Presentation](https://drive.google.com/open?id=1chgHXvUsE2nqvzrMd62hmD30fNPk1246)
 
 * _Language: C++_
 * _Tools: tinyObjLoader, VisualGDB_
@@ -44,11 +44,11 @@ For Block C we got quite a task: Implement our own version of _Quake_ on the ras
 ### Tron
 Assignment for Block B, when we first had to deal with matrices and graphics. From an incomplete framework, we needed to make a 2.5D Game , in other words, a 2D gameplay with 3D visuals. Making use of OpenGL and GLM, I pulled off a basic AI to race against the player, which isn't too clever but gets the job done. You can also play with a friend, just tell them it is similar to _Snake_ and they will get it.
 
-![TronMenu](https://Rodolfo377.github.io/Images/Tron_menu.PNG)
-![TronGameplay](https://Rodolfo377.github.io/Images/tron_gameplay.png)
-
 * [Download the Game](https://drive.google.com/open?id=0B3e0watf0f_5eDliY21aa1lXam8)
 * [Github](https://github.com/Rodolfo377/Tron/tree/master/Aquarius)
+
+![TronMenu](https://Rodolfo377.github.io/Images/Tron_menu.PNG)
+![TronGameplay](https://Rodolfo377.github.io/Images/tron_gameplay.png)
 
 * _Language: C++_
 * _Tools: OpenGL, GLM_
