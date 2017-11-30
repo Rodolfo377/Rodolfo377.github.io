@@ -68,11 +68,11 @@ Extra: I took the freedom to produce the assets in Photoshop, pixel art is reall
 
 ![Bee](https://Rodolfo377.github.io/Images/Bee_1.png) 
 
-_Language: C++_
-_Tools: SFML_
-_Time of Development: 10 weeks_
+* _Language: C++_
+* _Tools: SFML_
+* _Time of Development: 10 weeks_
 
 ##### Contact 
-- (e-mail) rodolfo.fbf@gmail.com
-- [Twitter](https://twitter.com/RodolfoBianchi1)
-- [Github](https://github.com/Rodolfo377)
+* (e-mail) rodolfo.fbf@gmail.com
+* [Twitter](https://twitter.com/RodolfoBianchi1)
+* [Github](https://github.com/Rodolfo377)
