@@ -8,9 +8,9 @@
 ### Game Marmalades
 Block B was quite special: It consisted of 3 _Game Marmalades_, which works like a Game Jam but spread out (therefore the word play), which means we work on each project the equivalent of 48h, but over 2 weeks so we can lead a healthy routine. In the end, we have a working prototype of a game that on each Marmalade has different constraints and challenges. Each Marmalade is meant to be a challenge for one of the three specializations: Programming, Art and Design. The focus of the Marmalades is: 
 
-_Fast iteration and playable prototypes_
+> Fast iteration and playable prototypes
 
-#### Programming
+#### GM1 - Programming Challenge
 Have you ever wanted to cross a canyon with a cowboy pig on a barrel using a paint bucket? This is the first of the marmalades, the theme is _Custom Controllers_. We were given an Arduino and some components and told to make a controller with it. Of course, we had to customize them to our own needs and that resulted in an all sorts of concepts from differents teams. Since Year 2 is about experimenting new roles and risk taking, I decided to step in and be the Product Owner of the team. For the first time, I was taking a role in Production rather than Development, and that posed quite a challenge. So I had to write High Concept Document, Product Backlog, make presentations, lead team meetings, be on top of everyone's work and push the project towards the dream while maintaining a healthy team culture. However, I believe it was all worth it when I saw the end result: People having fun with our game. Together with the Scrum Master, we scoped the project so that people could playtest it before we made the final presentation. The result was stupendous, we were praised by the lecturers and others students for the sheer simplicity of the game and our ideal scoping, despite being one artist and two designers short (6 people instead of 9). Enough talking, check out the trailer below!
 
 ![Gameplay](https://Rodolfo377.github.io/Images/POWERPNT_2018-01-26_14-12-46.png)
