@@ -17,6 +17,10 @@ Have you ever wanted to cross a canyon with a cowboy pig on a barrel using a pai
 
 -[Trailer](https://www.dropbox.com/s/kv3k60186z24hyq/BarrelRoll.gif?dl=0)
 
+* _Production Role
+* _Tools: Unity, Arduino_
+* _Time of Development: 3 weeks_
+
 ### UltraTDS Engine
 Back to School, we made it through the 1st year! Now it is time to code a custom Engine, what?? Yes, we are making an engine for a specific game genre, Tower Defense in our case. So, each group contained about 4 people, in the roles of Engine, AI, and Graphics programmers. The lecturers encouraged us to explore new roles, so I took on Graphics programming. That meant I needed to deal with a 
 graphics API from Microsoft, DirectX12, which was likely the most difficult part of my programme so far. More than graphics programming, however, I learnt something else: realistic project scoping. I was all over the place with research, trying to understand the whole picture before diving in, but that only slowed me down and in the end we went for ImGUI graphics. Therefore, our demo looks a bit silly, but the whole functionality is there: you can place towers wherever you want and you can stop enemies before they reach your tower. Great job from the AI and Engine programmers!
