@@ -17,7 +17,7 @@ Have you ever wanted to cross a canyon with a cowboy pig on a barrel using a pai
 
 -[Trailer](https://www.dropbox.com/s/kv3k60186z24hyq/BarrelRoll.gif?dl=0)
 
-* _Production Role
+* _Production Role_
 * _Tools: Unity, Arduino_
 * _Time of Development: 3 weeks_
 
