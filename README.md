@@ -41,22 +41,12 @@ Given a set of themes and images, our team was assigned random image and theme t
 For the last marmalade, we had the following theme and constraints: Industrial Revolution, Unique Sport, Children Audience - Mobile platform. Our gameplay consists of a arcade-like game where you need to get your mechanical horse through obstacles by clicking on screen, boosting up, and falling. In addition, the player needs to pick up fuel in order to refill the tank to keep the engine running. In this game, I was rensposible for:
 - Gameplay:
   1. Character Movement 
-    1. Character constantly moves to the right at the same speed
-    2. Player needs to be able to control its up/down direction by clicking
-    
+   
   2. Boost & Pick-Ups
-    1. The ability to go up is defined as “Boost”, and there is a fuel tank limiting the use of it.
-    2. The more the player uses “Boost”, the more it decreases the fuel tank
-    3. Pick-Up items refill the tank by a certain amount, enabling the player to continue playing
-    4. When the fuel tank becomes empty, the player can no longer boost up
 
   3. Game Over
-    1. Game over logical condition
-    2. Game Over fade-in screen
     
-  4. Audio
-    1. Have a sound manager that easily enables the addition and usage of sound effects in the game as needed.
-    2. Have a soundatrack playing during game.
+  4. Audio Manager (Sound Effects and Soundtrack)    
     
   5. HUD Animation
   
