@@ -54,6 +54,8 @@ For the last marmalade, we had the following theme and constraints: Industrial R
 
 It was a good all-around introduction to the Unity engine, which made me be confident in using it again in future projects.
 
+-[Trailer](https://www.dropbox.com/s/9zsq797jllursuw/Propellorse.mp4?dl=0)
+
 * _Language: C#_
 * _Tools: Unity Engine_
 * _Time of Development: 2 weeks_
