@@ -25,18 +25,52 @@ Have you ever wanted to cross a canyon with a cowboy pig on a barrel using a pai
 
 #### GM2 - Art Challenge
 Given a set of themes and images, our team was assigned random image and theme to develop the game from. The Art challenge my team decided to go for was having a 2D character in a 3D world. The gameplay resembles the game Don't Starve - at least in terms of movement. The game is about a friendly bear that goes around hugging villagers, with a bizarre twist to it. I was in charge of:
-* Character movement (8 directional movement and sprinting)
-* Character Interaction
-* UI: Hug Meter
+- Character movement (8 directional movement and sprinting)
+- Character Interaction: Hugging villagers and Camera Flash - Sinister twist to the game
+- UI: Hug Meter
 
 ![BearHug](Rodolfo377.github.io/Images/BigBearHug.png)
 
 -[Trailer](https://www.dropbox.com/s/5ehacksmr1z8pem/BearHug.mp4?dl=0)
 
+* _Language: Unreal Blueprints_
+* _Tools: Unreal_
+* _Time of Development: 2 weeks_
+
+#### GM3 - Design Challenge
+For the last marmalade, we had the following theme and constraints: Industrial Revolution, Unique Sport, Children Audience - Mobile platform. Our gameplay consists of a arcade-like game where you need to get your mechanical horse through obstacles by clicking on screen, boosting up, and falling. In addition, the player needs to pick up fuel in order to refill the tank to keep the engine running. In this game, I was rensposible for:
+- Gameplay:
+  1. Character Movement 
+    1. Character constantly moves to the right at the same speed
+    2. Player needs to be able to control its up/down direction by clicking
+    
+  2. Boost & Pick-Ups
+    1. The ability to go up is defined as “Boost”, and there is a fuel tank limiting the use of it.
+    2. The more the player uses “Boost”, the more it decreases the fuel tank
+    3. Pick-Up items refill the tank by a certain amount, enabling the player to continue playing
+    4. When the fuel tank becomes empty, the player can no longer boost up
+
+  3. Game Over
+    1. Game over logical condition
+    2. Game Over fade-in screen
+    
+  4. Audio
+    1. Have a sound manager that easily enables the addition and usage of sound effects in the game as needed.
+    2. Have a soundatrack playing during game.
+    
+  5. HUD Animation
+  
+  6. Particle Effects implementation
+
+It was a good all-around introduction to the Unity engine, which made me be confident in using it again in future projects.
+
+* _Language: C#_
+* _Tools: Unity Engine_
+* _Time of Development: 2 weeks_
 
 ### UltraTDS Engine
 Back to School, we made it through the 1st year! Now it is time to code a custom Engine, what?? Yes, we are making an engine for a specific game genre, Tower Defense in our case. So, each group contained about 4 people, in the roles of Engine, AI, and Graphics programmers. The lecturers encouraged us to explore new roles, so I took on Graphics programming. That meant I needed to deal with a 
-graphics API from Microsoft, DirectX12, which was likely the most difficult part of my programme so far. More than graphics programming, however, I learnt something else: realistic project scoping. I was all over the place with research, trying to understand the whole picture before diving in, but that only slowed me down and in the end we went for ImGUI graphics. Therefore, our demo looks a bit silly, but the whole functionality is there: you can place towers wherever you want and you can stop enemies before they reach your tower. Great job from the AI and Engine programmers!
+graphics API from Microsoft, DirectX12, which was likely the most difficult part of my programme so far. In terms of output, it was a huge failure, none of my work got implemented in engine. Other than graphics programming, however, I learnt something else: realistic project scoping. I was all over the place with research, trying to understand the whole picture before diving in, but that only slowed me down and in the end we went for ImGUI graphics. Therefore, our demo looks a bit simplistic, but the whole functionality is there: you can place towers wherever you want and you can stop enemies before they reach your tower. Great job from the AI and Engine programmers!
 
 ![TDS](https://Rodolfo377.github.io/Images/ultratds.png)
 
