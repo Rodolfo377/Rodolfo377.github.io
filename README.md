@@ -29,7 +29,7 @@ Given a set of themes and images, our team was assigned random image and theme t
 * Character Interaction
 * UI: Hug Meter
 
-![BearHug](Rodolfo377.github.io/Images/POWERPNT_2018-04-13_16-30-33.png)
+![BearHug](Rodolfo377.github.io/Images/BigBearHug.png)
 
 -[Trailer](https://www.dropbox.com/s/5ehacksmr1z8pem/BearHug.mp4?dl=0)
 
